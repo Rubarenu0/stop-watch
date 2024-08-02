@@ -1,0 +1,46 @@
+body{
+    background-color: bisque;
+}
+.container{
+    border: 1px solid aqua;
+    background-color: aqua;
+    margin-left: 550px;
+    margin-top: 200px;
+    width: 30%;
+    padding: 30px;
+    text-align: center;
+    border-radius: 20px;
+}
+.digit{
+    font-size: 50px;
+    color: darkred;
+}
+.txt{
+    font-size: 20px;
+    color: indigo;
+}
+button{
+    margin-top: 30px;
+    margin-right: 20px;
+}
+#start{
+    border: 1px solid green;
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+#stop{
+    border: 1px solid red;
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+#reset{
+    border: 1px solid goldenrod;
+    background-color: goldenrod;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
